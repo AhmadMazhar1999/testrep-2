@@ -1,8 +1,9 @@
 h1 {
-    color: brown;
+    color:blue;
     background-color: black;
-    margin: auto;
+    margin: 20px;
     padding: 20px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: medium;
+    text-align: center;
 }
